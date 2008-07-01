@@ -1,0 +1,52 @@
+8
+
+dir
+36
+svn+ssh://matias@192.168.1.2/home/matias/projecto/truck/CocoaReverse2/CocoaReverse2.xcodeproj
+svn+ssh://matias@192.168.1.2/home/matias/projecto
+
+
+
+2008-03-07T16:16:06.810951Z
+36
+matias
+
+
+svn:special svn:externals svn:needs-lock
+
+matt.mode1v3
+file
+
+
+
+
+2008-03-07T18:03:14.000000Z
+b418fdea9fb2dad1845e7ff946d9c19d
+2008-03-07T16:16:06.810951Z
+36
+matias
+
+project.pbxproj
+file
+
+
+
+
+2008-03-07T18:03:14.000000Z
+df972113141d5d9f79b584a12026f02c
+2008-03-07T16:16:06.810951Z
+36
+matias
+
+matt.pbxuser
+file
+
+
+
+
+2008-03-07T18:03:14.000000Z
+705947dcf04f57ed8e85c6ca93af4a0d
+2008-03-07T16:16:06.810951Z
+36
+matias
+

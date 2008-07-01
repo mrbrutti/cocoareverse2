@@ -1,0 +1,22 @@
+8
+
+dir
+36
+svn+ssh://matias@192.168.1.2/home/matias/projecto/truck/CocoaReverse2/build
+svn+ssh://matias@192.168.1.2/home/matias/projecto
+
+
+
+2008-03-07T16:16:06.810951Z
+36
+matias
+
+
+svn:special svn:externals svn:needs-lock
+
+CocoaReverse2.build
+dir
+
+Release
+dir
+

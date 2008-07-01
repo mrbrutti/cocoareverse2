@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Release;
+		activeExecutable = FC5A74130D914FDD00E5C21C /* CocoaReverse2 */;
+		activeTarget = 4DDCA7030ACC9A6100E082CE /* CocoaReverse2 */;
+		codeSenseManager = FC5A741F0D914FFE00E5C21C /* Code sense */;
+		executables = (
+			FC5A74130D914FDD00E5C21C /* CocoaReverse2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					597,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 227745448;
+			PBXWorkspaceStateSaveDate = 227745448;
+		};
+		perUserProjectItems = {
+			FC4809A60D931EB600FAC8BB /* PBXTextBookmark */ = FC4809A60D931EB600FAC8BB /* PBXTextBookmark */;
+			FC4809A90D931F6600FAC8BB /* PBXTextBookmark */ = FC4809A90D931F6600FAC8BB /* PBXTextBookmark */;
+			FC4809AA0D93201300FAC8BB /* PBXTextBookmark */ = FC4809AA0D93201300FAC8BB /* PBXTextBookmark */;
+			FC5A74240D930AC600E5C21C = FC5A74240D930AC600E5C21C /* PBXTextBookmark */;
+			FC5A74250D930AC600E5C21C = FC5A74250D930AC600E5C21C /* PBXTextBookmark */;
+		};
+		sourceControlManager = FC5A741E0D914FFE00E5C21C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4DDCA7030ACC9A6100E082CE /* CocoaReverse2 */ = {
+		activeExec = 0;
+		executables = (
+			FC5A74130D914FDD00E5C21C /* CocoaReverse2 */,
+		);
+	};
+	C96C2AD50D8105EF00432D23 /* ReverseController.rb */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{313, 555}\";\n        },\n                {\n            r = \"{923, 516}\";\n        },\n                {\n            r = \"{1512, 96}\";\n        },\n                {\n            r = \"{1715, 877}\";\n        },\n                {\n            r = \"{2669, 720}\";\n        },\n                {\n            r = \"{3450, 175}\";\n        },\n                {\n            r = \"{3680, 335}\";\n        },\n                {\n            r = \"{4079, 753}\";\n        },\n                {\n            r = \"{5215, 818}\";\n        },\n                {\n            r = \"{6111, 2624}\";\n        },\n                {\n            c =             (\n                                {\n                    r = \"{9232, 4974}\";\n                },\n                                {\n                    r = \"{14283, 2412}\";\n                }\n            );\n            r = \"{8843, 8665}\";\n        }\n    );\n    r = \"{0, 17512}\";\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {775, 826}}";
+			sepNavSelRange = "{1180, 0}";
+			sepNavVisRange = "{246, 1143}";
+		};
+	};
+	FC4809A60D931EB600FAC8BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C96C2AD50D8105EF00432D23 /* ReverseController.rb */;
+		name = "ReverseController.rb: 35";
+		rLen = 0;
+		rLoc = 711;
+		rType = 0;
+		vrLen = 3427;
+		vrLoc = 228;
+	};
+	FC4809A90D931F6600FAC8BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C96C2AD50D8105EF00432D23 /* ReverseController.rb */;
+		name = "ReverseController.rb: 35";
+		rLen = 0;
+		rLoc = 711;
+		rType = 0;
+		vrLen = 16634;
+		vrLoc = 822;
+	};
+	FC4809AA0D93201300FAC8BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C96C2AD50D8105EF00432D23 /* ReverseController.rb */;
+		name = "ReverseController.rb: 168";
+		rLen = 0;
+		rLoc = 5199;
+		rType = 0;
+		vrLen = 17266;
+		vrLoc = 246;
+	};
+	FC5A74130D914FDD00E5C21C /* CocoaReverse2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CocoaReverse2;
+		sourceDirectories = (
+		);
+	};
+	FC5A741E0D914FFE00E5C21C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FC5A741F0D914FFE00E5C21C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FC5A74240D930AC600E5C21C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C96C2AD50D8105EF00432D23 /* ReverseController.rb */;
+		name = "ReverseController.rb: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1023;
+		vrLoc = 0;
+	};
+	FC5A74250D930AC600E5C21C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C96C2AD50D8105EF00432D23 /* ReverseController.rb */;
+		name = "ReverseController.rb: 35";
+		rLen = 0;
+		rLoc = 711;
+		rType = 0;
+		vrLen = 3791;
+		vrLoc = 228;
+	};
+}
